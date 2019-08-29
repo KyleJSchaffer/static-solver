@@ -1,0 +1,47 @@
+.title-container{
+    text-align: center;
+}
+
+#help-info-container{
+    float:left
+}
+
+input{
+    width:80px;
+}
+
+.force-lists-container{
+    float: left;
+    width: 40%;
+}
+
+.solution-box{
+    float:left;
+    width:150;
+    text-align: center;
+}
+
+.equation-box{
+    float:left;
+    width:200;
+    text-align: center;
+}
+
+.canvas-container{
+    float: left;
+    width: 30%;
+    text-align: center;
+    margin-left: 10px;
+}
+
+#canvas{
+    border-style: solid;
+    border-width: 1px;
+}
+
+#error-message-container{
+    position: fixed;
+    bottom:0px;
+    left: 50%;
+    color: red;
+}
